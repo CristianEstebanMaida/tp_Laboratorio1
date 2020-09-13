@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599960931 source:c:\users\crist\documents\programacion_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"lib.h"
+
+1599959041 c:\users\crist\documents\programacion_laboratorio_1\lib.h
+
